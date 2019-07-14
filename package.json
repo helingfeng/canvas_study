@@ -1,0 +1,29 @@
+{
+  "name": "canvas_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helingfeng/canvas_study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helingfeng/canvas_study/issues"
+  },
+  "homepage": "https://github.com/helingfeng/canvas_study#readme",
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.5"
+  },
+  "dependencies": {
+    "vue": "^2.6.10",
+    "vue-loader": "^15.7.0"
+  }
+}
